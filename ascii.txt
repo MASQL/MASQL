@@ -1,0 +1,28 @@
+pip install pyfiglet
+
+# In your shell/command prompt
+pyfiglet                # Print all options
+pyfiglet --list_fonts   # List fonts
+pyfiglet "Hello world!" # Generate text
+
+
+# pip install pyfiglet
+import pyfiglet
+
+ascii_banner = pyfiglet.figlet_format("Hello!!")
+print(ascii_banner)
+
+output :
+ _   _      _ _       _ _
+| | | | ___| | | ___ | | |
+| |_| |/ _ \ | |/ _ \| | |
+|  _  |  __/ | | (_) |_|_|
+|_| |_|\___|_|_|\___/(_|_)
+
+#example font
+pyfiglet --list-fonts
+
+#in terminal
+from pyfiglet import Figlet
+custom_fig = Figlet(font='graffiti')
+print(custom_fig.renderText('Hello!!'))

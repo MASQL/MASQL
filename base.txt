@@ -1,0 +1,29 @@
+--------------BASE.TXT--------------
+!     Save Data Log-In BRI_LINK    !
+!     Program  By Bayu Julianto    !
+------------------------------------
+
+Username : Alya Nur Qasmi
+ID-ACT   : ALYA-3087-1854[D[2[C[4
+Password : aLyaNQasmi
+PIN-ACT  : 80-32-87-34
+DATE     : 09-12-2023
+-----------------------------------
+Username :Hendra Syaputra
+ID-ACT   :HENDRA-1265-9078
+Password :HendraSyaputra11
+PIN-ACT  :06-07-08
+DATE     :09-12-2023
+-----------------------------------
+Username :budi
+ID-ACT   :BUDI-4813-7854
+Password :budi1234
+PIN-ACT  :23-58-84
+DATE     :09-12-2023
+-----------------------------------
+Username :bayu julianto
+ID-ACT   :BAYU-1234-1234
+Password :BAYU1234
+PIN-ACT  :12-34-56
+DATE     :09-12-2023
+-----------------------------------
